@@ -1,0 +1,66 @@
+Databases are essential
+tools for data analysts. I use them constantly, just about all of the data I access is stored
+within databases. Databases store an
+organized data, making it much easier for data analysts to manage and
+access information. They help us get insights faster, make data driven decisions,
+and solve problems. You've already heard a
+bit about what databases are and how they're
+used by data analysts. Now let's learn more about database features and components. As you've learned, a database is a collection of data stored
+in a computer system. Here's a simple
+database structure. It contains tables with information from a
+car manufacturer. The top level includes
+car dealerships, product details and repair parts. Then if you drill down to the next level by selecting
+one of those tables, you'll find more specific
+details about each item. This is called a
+relational database. A relational database is a database that
+contains a series of tables that can be connected
+to form relationships. For two tables to
+have a relationship, one or more of the same fields must exist inside both tables. For example, here, Branch ID exists in this
+table and this one. If a field exists
+within both tables, we can use it to connect
+the tables together. Certain fields can also be
+referred to as a primary key. A primary key is
+an identifier that references a column in
+which each value is unique. So when our car
+manufacturer example, we can see that branch ID is the primary key in
+the dealership table. VIN is the primary key in the product details table and part ID is the primary key
+in the repair parts table. Primary keys are unique and can only exist once
+within a given table. There's also foreign keys. A foreign key is a field within a table that's a primary
+key in another table. In our example, the VIN is the foreign key in
+the repair part table. As you can see, a table can
+only have one primary key, but it can have
+multiple foreign keys. Relational databases are great for keeping data consistent, no matter where it's accessed. Mobile banking is an
+interesting example of this. Let's say you
+deposit a check into your bank account using
+your mobile banking app, then you check your account
+balance on your computer, the database relationship
+make sure that the deposit shows up
+immediately on both platforms. Or let's say you work on
+a team of data analysts located in different offices,
+relational databases, make sure everyone's looking
+at the exact same data and can collaborate using a single set of
+accurate information. Now, let's explore
+some different types of relational databases. First, a normalized database is a database in which
+only related data is stored at each table. The main idea behind database normalization is
+that a table should be about a specific topic and only includes supporting related data. This is important
+because it minimizes the chances of
+having redundancies. A redundancy occurs
+when the same piece of data is stored in two or
+more separate places. Redundancy is waste time
+and space in your database. For example, if you needed
+to change a piece of data in a database
+with redundancies, you have to make the same update in every place where
+the data exists. That would take a lot
+of time and could easily lead to typos
+or other errors. Next up, we have schemas. A schema is a way of describing the way something is organized. You can think about
+data schemas like blueprints of how the
+database is constructed. Schemas are useful when
+you're learning about a new data set or designing
+a relational database. You'll learn more about
+different types of schemas in an upcoming reading. You've learned a lot
+about databases and how data analysts use them to gain important
+insights every day. Soon you'll begin
+practicing how to access and analyze data from
+actual databases. That will be a great
+opportunity to improve your understanding of
+database organization, the benefits of each method, and how you might use databases in your future analytics career.

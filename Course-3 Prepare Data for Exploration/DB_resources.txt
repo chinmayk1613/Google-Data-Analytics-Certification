@@ -1,0 +1,7 @@
+https://dev.mysql.com/doc/mysql-getting-started/en/
+
+https://docs.microsoft.com/en-us/sql/relational-databases/tutorial-getting-started-with-the-database-engine?view=sql-server-ver15
+
+https://www.postgresql.org/docs/10/tutorial-start.html
+
+https://www.sqlite.org/quickstart.html

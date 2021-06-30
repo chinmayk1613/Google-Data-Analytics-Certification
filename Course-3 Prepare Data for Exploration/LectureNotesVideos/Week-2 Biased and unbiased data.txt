@@ -1,0 +1,41 @@
+Hello again. So far we've
+learned that the biases we have as people can end
+up creating biased data. We're biased when we have
+preferences based on our own preconceived or even
+subconscious notions. When data is biased, it
+can systematically skew results in a certain direction,
+making them unreliable. We covered this earlier using sampling bias as an example. Sampling bias is
+when a sample isn't representative of the
+population as a whole. You can avoid this by making sure the sample is chosen at random so that all parts of the population have an equal chance
+of being chosen. If you don't use random sampling
+during data collection, you end up favoring one outcome. Here's a simple
+way to look at it. Let's say there's 50
+students in one class, and you want to know
+if the majority prefers warm weather
+or cold weather. You decide to survey
+ten female students, and determine that the
+class prefers warm weather. But wait, there's some bias here. Your survey wasn't a
+fair representation of the entire class
+because it didn't include males and
+non-binary students. If you'd used a more
+randomized sample of the population that
+included all genders, you'd have an unbiased sample. Unbiased sampling
+is a sample that is representative of the
+population being measured. Another great way to discover
+if you're working with unbiased data is to bring the results to life
+with visualizations. In the class example
+we just covered, you could visualize
+the number of male and female students in the class overall
+with a bar chart. You could then compare that to a similar bar chart showing
+the number of male and female students you surveyed. This will help you
+easily identify any big issues with your sample. As a general rule, it's our goal as data analysts to avoid bias. But believe it or not, there are actually situations where a biased sample
+can come in handy. If you're trying to get
+more actionable data, bias can help you
+narrow your focus. For example, if you
+were trying to predict and plan a company's budget
+for the coming year, you'd probably check out
+last year's sales. You're technically
+using biased data because it's not taking into account other variables. But it is helping you
+narrow your focus. Now that we know what bias looks like from a sampling perspective, let's explore some
+other types of bias and how to recognize
+them, coming up next.
