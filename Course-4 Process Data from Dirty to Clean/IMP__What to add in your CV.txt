@@ -1,0 +1,12 @@
+The skills section on your resume likely only has room for 2-4 bullet points, so be sure to use this space effectively. You might want to prioritize technical skills over soft skills. This is a great chance for you to highlight some of the skills you’ve picked up in these courses, such as:
+
+Strong analytical skills
+Pattern recognition
+Relational databases and SQL
+Strong data visualization skills
+Proficiency with spreadsheets, SQL, R, and Tableau
+Notice how the skills listed above communicate a well-rounded data analyst’s skill set without being wordy. The skills section summarizes what you’re capable of doing while listing the technology and tools you are proficient in.
+
+Many companies use algorithms to screen and filter resumes for keywords. If your resume does not contain the keywords they are searching for, a human may never even read your resume. Reserving at least one bullet point to list specific programs you are familiar with is a great way to make sure your resume makes it past automated keyword screenings and onto the desk of a recruiter or hiring manager.
+
+Take a moment to complete the skills section of your resume. 

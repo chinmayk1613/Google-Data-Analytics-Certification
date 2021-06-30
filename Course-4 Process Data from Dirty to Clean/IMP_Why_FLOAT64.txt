@@ -1,0 +1,1 @@
+Please note that Float is the data type. The 64 part has to do with how memory is stored, either using 32- or 64-bit systems. BigQuery just happens to store numbers using a 64-bit system so its syntax requires us to use float64 instead of just float.

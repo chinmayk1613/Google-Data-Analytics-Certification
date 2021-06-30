@@ -1,0 +1,7 @@
+By the end of this lab, you'll be able to:
+
+Identify if and why a dataset is dirty
+Remove duplicate data
+Use the COUNTIF and TRIM functions to clean data
+Use the SPLIT and CONCATENATE functions to clean data
+Use LEFT, RIGHT, MID, and/or LEN to retrieve parts of a cell within a dataset

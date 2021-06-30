@@ -1,0 +1,11 @@
+Thinking about SQL
+
+In this course, you've been introduced to many different tools available to you in SQL. These SQL tools, when used correctly, make tasks like removing duplicates or cleaning up string data much easier, especially when you work with datasets that are too large to work effectively with spreadsheets. 
+
+As a brief review, you learned how to complete tasks like:
+
+Getting data from a table using SELECT statements
+De-duplicating data using commands like DISTINCT and COUNT + WHERE
+Manipulating string data with TRIM(), SUBSTR, and LENGTH
+Changing data types with CAST
+As you've learned, some of these tasks in SQL are more challenging than others, and processing data with SQL has a learning curve. Keep in mind that getting SQL to work the way you want it to is achievable as you learn, and master, the various commands. Take a moment to think about the parts of SQL that you’ve found to be easy, and those you've found to be challenging. 

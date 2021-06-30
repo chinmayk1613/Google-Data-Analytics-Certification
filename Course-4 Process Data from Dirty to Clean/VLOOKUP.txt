@@ -1,0 +1,6 @@
+In the above process, the analyst could use VLOOKUP to look up the data in Steps 1, 2, and 3 to populate the values in the spreadsheet in Step 4. VLOOKUP is a spreadsheet function that searches for a certain value in a column to return a related piece of information. Using VLOOKUP can save a lot of time; without it, you have to look up dates and names manually.
+
+R​efer to the VLOOKUP page in the Google Help Center for how to use the function in Google Sheets.
+
+
+https://support.microsoft.com/en-us/office/vlookup-function-0bbc8083-26fe-4963-8ab8-93a18ad188a1

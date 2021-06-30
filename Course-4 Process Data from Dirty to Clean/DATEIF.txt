@@ -1,0 +1,5 @@
+In Step 4 of the above process, the analyst could use the DATEDIF function to automatically calculate the difference between the dates in column C and column D. The function can calculate the number of days between two dates. 
+
+Refer to the Microsoft Support DATEDIF page for how to use the function in Excel. The DAYS360 function does the same thing in  accounting spreadsheets that use a 360-day year (twelve 30-day months).
+
+R​efer to the DATEDIF page in the Google Help Center for how to use the function in Google Sheets.

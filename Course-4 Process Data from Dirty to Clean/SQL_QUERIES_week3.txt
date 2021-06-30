@@ -1,0 +1,36 @@
+select * from cars.car_info where num_of_doors IS NULL;
+
+select make, fuel_type, num_of_doors, body_style from cars.car_info where make="dodge" and fuel_type="gas" and body_style="sedan";
+
+update cars.car_info set num_of_doors="four" where make="dodge" and fuel_type="gas" and body_style="sedan";
+
+select make, fuel_type, num_of_doors, body_style from cars.car_info where make="mazda" and fuel_type="diesel" and body_style="sedan";
+
+update cars.car_info set num_of_doors="four" where  make="mazda" and fuel_type="diesel" and body_style="sedan";
+
+select distinct(num_of_cylinders) from cars.car_info;
+
+update cars.car_info set num_of_cylinders="two" where num_of_cylinders="tow";
+
+select min(compression_ratio) as min_compression_ratio, max(compression_ratio) from cars.car_info;
+
+
+select compression_ratio from cars.car_info order by compression_ratio desc;
+
+select * from cars.car_info where compression_ratio=70;
+
+delete from cars.car_info where compression_ratio=70;
+
+select min(price) as min_price, max(price) as max_price from cars.car_info;
+
+select price from cars.car_info order by price asc;
+
+select avg(price) asAVG_PRCE from cars.car_info;
+
+update cars.car_info set price=12978 where price=0;
+
+select distinct(drive_wheels) from cars.car_info;
+
+select distinct(drive_wheels), length(drive_wheels) as LENGTH_DRIVE_WHEELS from cars.car_info;
+
+update cars.car_info set drive_wheels=TRIM(drive_wheels) where LENGTH(drive_wheels) > 3
