@@ -1,0 +1,29 @@
+Sorting and filtering in Sheets and Excel
+In this reading, we will describe the sorting and filtering options in Google Sheets and Microsoft Excel. Both offer basic sorting and filtering from set menu options. But, if you need more advanced sorting and filtering capabilities, you can use their respective SORT and FILTER functions.
+
+Image of lightbulb, money icon, person icon, and an analog clock traveling into an open box
+Sorting and filtering in Sheets
+Sorting in Google Sheets helps you quickly spot trends in numbers. One trend might be gross revenue by sales region. In this case, you could sort the gross revenue column in descending (Z to A) order to spot the top performing regions at the top, or sort the gross revenue column in ascending (A-Z) order to spot the lowest performing regions at the top. Although an alphabetical order is implied, these sorting options do sort numbers, as our gross revenue example highlighted.
+
+If you want to learn more about the set menu options for sorting and filtering, start with these resources:
+
+Sort and filter data (Google Help Center): instructions to sort data in alphabetical or numerical order and create filter views
+Sort data by selecting a range of data in a column: video of steps to achieve the task
+Sort a range of data using sort criteria for multiple columns: technical tip video to sort data across multiple columns
+In addition to the standard menu options, there is a SORT function for more advanced sorting. Use this function to create a custom sort. You can sort the rows of a given range of data by the values in one or more columns. And you get to set the sort criteria per column. Refer to the SORT function page for the syntax. 
+
+And like the SORT function, you can use the FILTER function to filter by any matching criteria you like. This creates a custom filter. 
+
+You might recall that you can filter data and then sort the filtered results. Using the FILTER and SORT functions together in a range of cells can programmatically and automatically achieve these results for you. 
+
+Sorting and filtering in Excel
+You can also sort in ascending (A-Z) and descending (Z-A) order in Microsoft Excel. Excel offers Smallest to Largest and Largest to Smallest sorting when you are working with numbers. 
+
+Similar to the SORT function in Google Sheets, Excel includes custom sort capabilities that are available from the menu. After you select the data range, click the Sort & Filter button to select the criteria for sorting. You can even sort by the data in rows instead of by the data in columns if you select Sort left to right under Options. (Sort top to bottom is the default setting to sort the data in columns.)
+
+If you want to learn more about sorting and filtering in Excel, start with these resources:
+
+Sort data in a range or table (Microsoft Support): instructions and video to perform sorting in 11 different use cases 
+Excel training: sort and filter data (Microsoft Support): sorting and filtering videos with transcripts
+Excel: sorting data: video of how to use the Sort & Filter and Data menu options for sorting 
+Excel also has SORT, SORTBY, and FILTER functions. Explore how you can use these functions to automatically sort and filter your data in spreadsheets without having to select any menu options at all.

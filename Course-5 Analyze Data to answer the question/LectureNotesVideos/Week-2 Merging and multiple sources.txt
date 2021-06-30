@@ -1,0 +1,53 @@
+Great to see you back. In this video, we'll build on what
+we've learned about CONCATENATE and IMPORTRANGE by exploring
+a new SQL query: CONCAT. You might remember that CONCATENATE is
+a function that joins together two or more text strings. And as a quick reminder, a text string is
+a group of characters within a cell, most often composed of letters. You've seen how this works
+within a single spreadsheet. But there's a similar function in SQL that
+allows you to join multiple text strings from multiple sources: CONCAT. Let's use CONCAT to combine
+strings from multiple tables to create new strings. For this example,
+we'll use open data from Citi Bike, which is a public bike
+sharing system in New York. As you learned earlier, open data
+initiatives have created a ton of data for analysts to use. Openness or open data is free access,
+usage, and sharing of data. It's a great resource if
+you want to practice or experiment with the data analysis
+tools you've been learning here. We have open access to
+the New York City bike sharing data, which has information about the use
+of the shared bikes across the city. So now we can use CONCAT to pull and concatenate data from
+the different columns stored here. The first thing we need to do is
+figure out which columns we need. That way we can tell SQL where
+the strings we want are. For example, the bike sharing company
+has two different kinds of customers: one-time paying customers and subscribers. Let's say we want to find out what
+routes are most popular with different usertypes. To do that, we need to create strings of recognizable
+route names that we can count and sort. We know that the information we need
+is in the Station and Trips table, so we'll start building
+our query accordingly. First we'll input SELECT usertype to let
+SQL know that we want it as a column. Then we'll use CONCAT to combine the names
+of the beginning and ending stations for each trip in a new column. We'll type in "AS route"
+to make a route column. This will make these route names easy for
+us to read and understand. After that, we'll want SQL to
+count the number of trips. So we'll input COUNT and an asterisk to
+tell it to count up the number of rows in the data we're selecting (where each row represents
+a trip) in a new column. Now, let's also create a column for
+trip duration, which we can just round up. Notice how our SQL functions
+first cast the values and the trip duration column as integers, then calculates the average value for
+the trip duration and then rounds that value
+to two decimal places. Next, we'll tell SQL where
+this information is stored. So we'll use FROM and
+the location we're pulling from. Since we're using COUNT and
+AVERAGE functions in our SELECT clause, we have to use GROUP BY
+to group together summary rows. Let's group by the start station, the end
+station and the usertype for this query. Finally, we'll use ORDER BY to tell
+it how we want to organize the data. For this, we want to figure
+out the most common trips. So we can input the number
+of trips column and use DESC to put it in descending order. Finally, we only want the top 10,
+so let's add LIMIT 10. And now, thanks to the CONCAT,
+we can easily read these route names and trace them back to real places. We can see which kinds of
+customers are taking which routes, which can help the bike sharing
+company understand their user base in different parts of the city, and where
+to keep more bikes for people to rent. Being able to combine
+multiple pieces of data can give you new ways to organize and
+analyze data. And there's a lot of different
+tools to help you do that. Now you've seen CONCAT in action, and later you'll come across
+another similar query, JOIN. But up next we'll talk more about
+working with strings. See you soon.

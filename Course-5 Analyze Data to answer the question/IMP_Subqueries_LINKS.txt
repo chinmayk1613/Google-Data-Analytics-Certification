@@ -1,0 +1,11 @@
+http://www-db.deis.unibo.it/courses/TW/DOCS/w3schools/sql/sql_having.asp.html
+
+https://www.w3schools.com/sql/sql_case.asp
+
+https://www.w3schools.com/sql/func_mysql_if.asp
+
+http://www-db.deis.unibo.it/courses/TW/DOCS/w3schools/sql/sql_func_count.asp.html
+
+https://www.w3resource.com/sql/subqueries/understanding-sql-subqueries.php
+
+https://mode.com/sql-tutorial/sql-sub-queries/
