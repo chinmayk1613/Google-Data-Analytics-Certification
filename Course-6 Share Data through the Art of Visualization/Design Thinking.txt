@@ -1,0 +1,31 @@
+E​mpathize
+First, empathize by putting yourself in the shoes of a customer who has a checking account with the bank. 
+
+Do the colors and labels make sense in the visualization? 
+How easy is it to set or change a budget? 
+When you click on a spending category in the donut chart, are the transactions in the category displayed?
+What is the main purpose of the data visualization? If you answered that it was to help customers stay within budget or to save money, you are right! Saving money was a top customer need for the dashboard. 
+
+D​efine
+Now, imagine that you are helping dashboard designers define other things that customers might want to achieve besides saving money. 
+
+What other data visualizations might be needed? 
+
+Track income (in addition to spending)
+Track other spending that doesn’t neatly fit into the set categories (this is sometimes called discretionary spending)
+Pay off debt
+Can you think of anything else?
+
+I​deate
+Next, ideate additional features for the dashboard and share them with the software development team. 
+
+What new data visualizations would help customers?
+Would you recommend bar charts or line charts in addition to the standard donut chart?
+Would you recommend allowing users to create their own (custom) categories?
+Can you think of anything else?
+
+P​rototype
+Finally, developers can prototype the next version of the dashboard with new and improved data visualizations. 
+
+T​est
+Developers can close the cycle by having you (and others) test the prototype before it is sent to stakeholders for review and approval.

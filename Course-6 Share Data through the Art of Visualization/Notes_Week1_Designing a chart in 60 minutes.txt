@@ -1,0 +1,9 @@
+Follow this high level 60-minute chart to guide your thinking whenever you begin working on a data visualization. 
+
+Prep (5 min): Create the mental and physical space necessary for an environment of comprehensive thinking. This means allow yourself room to brainstorm how you want your data to appear while considering the amount and type of data that you have.
+
+Talk and listen (15 min): Identify the object of your work by getting to the “ask behind the ask” and establishing expectations. Ask questions and really concentrate on feedback from stakeholders regarding your projects to help you hone how to lay out your data. 
+
+Sketch and design (20 min): Draft your approach to the problem. Define the timing and output of your work to get a clear and concise idea of what you are crafting.
+
+Prototype and improve (20 min): Generate a visual solution and gauge its effectiveness at accurately communicating your data. Take your time and repeat the process until a final visual is produced. It is alright if you go through several visuals until you find the perfect fit. 

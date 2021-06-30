@@ -1,0 +1,7 @@
+Four elements of successful visualizations
+The Venn diagram by David McCandless identifies four elements of successful visualizations: 
+
+Information (data): The information or data that you are trying to convey is a key building block for your data visualization. Without information or data, you cannot communicate your findings successfully.
+Story (concept): Story allows you to share your data in meaningful and interesting ways. Without a story, your visualization is informative, but not really inspiring. 
+Goal (function): The goal of your data visualization makes the data useful and usable. This is what you are trying to achieve with your visualization. Without a goal, your visualization might still be informative, but can’t generate actionable insights.
+Visual form (metaphor): The visual form element is what gives your data visualization structure and makes it beautiful. Without visual form, your data is not visualized yet. 

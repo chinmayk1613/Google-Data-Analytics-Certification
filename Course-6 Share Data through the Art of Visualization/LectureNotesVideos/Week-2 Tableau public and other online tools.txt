@@ -1,0 +1,22 @@
+Welcome back. Mastering online tools like tableau
+will make it easier for your audience to understand difficult concepts or
+identify new patterns in your data. Need to help a news outlet showcase
+changing real estate prices in regional markets? Check. Want to help a nonprofit use their data
+in better ways to streamline operations? Check. Need to explore what video games sales
+look like over the past few decades. Double check many different kinds of
+companies air using tableau right now to do all of these things and more. This means there's a good chance
+you'll end up using it at some point. Your career. But I'm getting ahead of myself first. Let's talk about what tableau actually is. You might remember learning that
+tableau is a business intelligence and analytics platform that you can
+use online to help people see, understand and make decisions with data. But it's not all business all the time. Take this data viz, for example, created by tableau enthusiast Steve Thomas
+to record Bigfoot sightings across the US. It's available on tableau. Public, which will be using together
+in our activities in this course tableau can help you make and
+easily share interactive dashboards, maps and graphs with your data. Without any coding, you can connect to
+data and lots of formats like Excel, CSV and Google Sheets. You might also find yourself working
+with a company that uses another option, like looker or google data studio,
+for example, like tableau, looker and google data studio help you take raw
+data and bring it to life visually. But each does this in different ways. For example, while tableaus offered in
+a variety of formats like browser and desktop looker and google data
+studio are completely browser based. But here's the great news. Once you learn
+the fundamentals of tableaux, you'll find they easily transferred
+other visualization tools, ready to get started using it, then,
+without further ado, meet tableau up next.

@@ -1,0 +1,11 @@
+https://help.tableau.com/current/pro/desktop/en-us/datasource_prepare.htm
+
+https://help.tableau.com/current/pro/desktop/en-us/joining_tables.htm
+
+https://help.tableau.com/v2020.2/pro/desktop/en-us/datasource_dont_be_scared.htm
+
+https://help.tableau.com/current/online/en-us/datasource_relationships_learnmorepage.htm
+
+https://help.tableau.com/current/pro/desktop/en-us/multiple_connections.htm
+
+https://kb.tableau.com/articles/howto/combining-start-and-end-dates-into-a-single-axis
