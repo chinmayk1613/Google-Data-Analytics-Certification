@@ -5,3 +5,6 @@ Successfully completed Professional Certification in Google Data Analsystis. Thi
 
 
         Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
