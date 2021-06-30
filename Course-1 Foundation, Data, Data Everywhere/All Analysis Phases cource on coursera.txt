@@ -1,0 +1,26 @@
+https://www.coursera.org/learn/ask-questions-make-decisions
+  --> Ask phase in Analysis
+
+https://www.coursera.org/learn/data-preparation/home/welcome
+  --> Prepare phase in Analysis
+
+https://www.coursera.org/learn/process-data
+  --> Process phase in Analysis
+
+https://www.coursera.org/learn/analyze-data
+https://www.coursera.org/learn/data-analysis-r
+  --> Analyze phase in Analysis
+
+https://www.coursera.org/learn/visualize-data
+https://www.coursera.org/learn/data-analysis-r
+  --> Share phase in Analysis
+
+https://www.coursera.org/learn/google-data-analytics-capstone
+  --> Act phase in Analysis
+
+
+https://support.google.com/a/users/answer/9282959?visit_id=637361702049227170-1815413770&rd=1
+https://support.google.com/a/users/answer/9300022
+https://support.microsoft.com/en-us/office/excel-video-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb?ui=en-US&rs=en-US&ad=US
+  --> For spreadsheet
+
