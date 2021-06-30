@@ -1,0 +1,6 @@
+Often, businesses will tailor a dashboard for a specific purpose. The three most common categories are:
+
+Strategic: Focuses on long term goals and strategies at the highest level of metrics
+Operational: Short-term performance tracking and intermediate goals
+Analytical: Consists of the datasets and the mathematics used in these sets
+Let’s go into more detail about these three kinds of dashboards.

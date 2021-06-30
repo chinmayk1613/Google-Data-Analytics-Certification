@@ -1,0 +1,87 @@
+Before, I shared how data analysis,
+helped a company figure out, where to advertise its services. An important part of this process,
+was strong problem solving skills. As a data analyst, you will find that
+problems are at the center of what you do, every single day, but that's a good thing. Think of problems as opportunities to put
+your skills to work and find creative and insightful solutions. Problems can be large or
+small, simple or complex. No problem is like another and they all
+require a slightly different approach. But the first step is always the same: understanding what kind of problem
+you are trying to solve. And that is what we
+are going to talk about now. Data analysts
+work with six basic problem types: making predictions, categorizing things,
+spotting something unusual, identifying themes, discovering
+connections and finding patterns. Think back to a real-world
+example from the previous video. In that example Anywhere Gaming Repair
+wanted to figure out how to bring in new customers. So the problem was how to determine
+the best advertising method for Anywhere Gaming Repair's target audience. To help solve this problem, the company used data to envision what
+would happen if it advertised in different places. Now, nobody can see the future. But the data helped them make an informed
+decision about how things would likely work out. So their problem type
+was making predictions. Now, let's think about the second
+problem type, categorizing things. Here's an example of a problem
+that involves categorization. Let's say a business wants to improve
+its customer satisfaction levels. Data analysts could review recorded
+calls to the company's customer service department. And evaluate the satisfaction
+level of each caller. They could identify certain keywords or phrases that come up
+during the phone calls. And then assign them to
+categories such as politeness, satisfaction, dissatisfaction,
+empathy, and more. Categorizing these keywords gives us
+data that lets the company identify top- performing customer
+service representatives and those who might need more training. This leads to happier customers and
+higher customer service scores. Okay, now let's talk about a problem
+that involves finding something unusual. Some of you may have a smartwatch. My favorite app is for health tracking. These apps can help people stay healthy by
+collecting data such as their heart rate, sleep patterns,
+exercise routine, and much more. There are many stories out there
+about health apps actually saving people's lives. One is about a woman who was young,
+athletic, and had no previous medical problems. One night she heard
+a beep on her smartwatch. A notification said her
+heart rate had spiked. Now in this example,
+think of the watch as a data analyst. The watch was collecting and
+analyzing health data. So when her resting heartbeat rate
+was suddenly 120 beats per minute, the watch spotted something unusual.
+Because according to its data, the rate was normally around 70. Thanks to the data her smartwatch gave
+her the woman went to the hospital and discovered she had a condition which could have led to life-threatening
+complications if she hadn't gotten medical help. Now let's move on to the next type
+of problem: identifying themes. We see a lot of examples of this
+in the user experience field. User experience designers study and work
+to improve the interactions people have with products they use every day, like
+apps, websites, and even coffee makers. Let's say a user experience
+designer wants to see what customers think about the coffeemaker
+his company manufactures. This business collects anonymous
+survey data from users, which can be used to answer this question. But first, to make sense of it all. He will need to find themes that
+represent the most valuable data. Especially information he can use to
+make the user experience even better. So the problem that user experience
+designer's company faces is how to improve the user experience for its coffeemakers. The process here is kind of like
+finding categories for the keywords and phrases in customer service conversations. But identifying themes goes even
+further by grouping each insight into a broader theme. Then the designer can pinpoint
+the themes that are most common. In this case, he learned users often couldn't tell
+if the coffee maker was on or off. He ended up optimizing the design
+with improved placement and lighting for the on off button. Leading to product improvement and
+happy users. Now we come to the problem
+of discovering connections. This example is from
+the transportation industry, and uses something called
+third-party logistics. Third-party logistics partners help
+businesses ship products when they don't have their own trucks, planes or ships. A common problem these partners face is
+figuring out how to reduce wait time. Wait time happens when a truck driver from
+a third party logistics provider arrives to pick up a shipment, but it's not ready. So she has to wait. That costs both company time and money. And it stops the trucks from getting back
+on the road to make more deliveries. So how can they solve this? Well, by sharing data,
+the partner companies can view each other's timelines and
+see what's causing shipments to run late. Then they can figure out how to
+avoid those problems in the future. So a problem for one business doesn't
+cause a negative impact for the other. For example,
+if shipments are running late because one company only delivers Mondays,
+Wednesdays and Fridays, and the other company only
+delivers Tuesdays and Thursdays, then companies can adjust to
+do deliveries on the same day to reduce waiting time for customers. All right, we've come to our final
+problem type, finding patterns. Oil and gas companies are constantly working to
+keep their machines running properly. So the problem is how to stop
+machines from breaking down. One way data analysts can
+do this is by looking at patterns in the company's
+historical data. For example,
+they could investigate how and when a particular machine
+broke down in the past and then generate insights
+into what led to the breakage. In this case, the company saw patterns
+indicating that machines began breaking down at faster rates when maintenance
+wasn't kept up in 15-day cycles. They can then keep track
+of current conditions and intervene if any of these
+issues happen again. You've now learned the six basic problem
+types data analysts typically face. As a future data analyst, this is going
+to be valuable knowledge for your career.
