@@ -1,0 +1,15 @@
+https://community.rstudio.com/
+
+https://www.reddit.com/r/Rlanguage/
+
+https://discuss.ropensci.org/
+
+https://www.rfordatasci.com/
+
+https://twitter.com/hashtag/rstats?lang=en
+
+https://www.meetup.com/topics/data-analytics/
+
+https://jumpingrivers.github.io/meetingsR/r-user-groups.html
+
+https://www.meetup.com/pro/rladies

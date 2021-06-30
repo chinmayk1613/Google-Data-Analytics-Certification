@@ -1,0 +1,16 @@
+Tibbles are a little different from standard data frames. A data frame is a collection of columns, like a spreadsheet or a SQL table. Tibbles are like streamlined data frames that are automatically set to pull up only the first 10 rows of a dataset, and only as many columns as can fit on the screen. This is really useful when you’re working with large sets of data. Unlike data frames, tibbles never change the names of your variables, or the data types of your inputs. Overall, you can make more changes to data frames, but tibbles are easier to use. The tibble package is part of the core tidyverse. So, if you’ve already installed the tidyverse, you have what you need to start working with tibbles. 
+
+Creating tibbles 
+Now, let’s go through an example of how to create a tibble in R. You can use the pre-loaded diamonds dataset that you’re familiar with from earlier videos. As a reminder, the diamonds dataset includes information about different diamond qualities, like carat, cut, color, clarity, and more. 
+
+You can load the dataset with the data() function using the the following code:
+
+library(tidyverse) 
+
+data(diamonds)
+
+Then, let’s add the data frame to our data viewer in RStudio with the View() function. 
+
+View(diamonds)
+
+The dataset has 10 columns and thousands of rows. This image displays part of the data frame:

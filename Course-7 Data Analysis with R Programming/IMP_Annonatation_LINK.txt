@@ -1,0 +1,9 @@
+https://ggplot2.tidyverse.org/reference/annotate.html
+
+https://www.r-graph-gallery.com/233-add-annotations-on-ggplot2-chart.html
+
+https://ggplot2-book.org/annotations.html
+
+https://www.r-bloggers.com/2017/02/how-to-annotate-a-plot-in-ggplot2/
+
+https://viz-ggplot2.rsquaredacademy.com/ggplot2-text-annotations.html

@@ -1,0 +1,9 @@
+https://github.com/mitchelloharawild/vitae
+
+https://github.com/rstudio/rticles
+
+https://github.com/rstudio/learnr
+
+https://github.com/rstudio/bookdown
+
+https://github.com/rstudio/flexdashboard

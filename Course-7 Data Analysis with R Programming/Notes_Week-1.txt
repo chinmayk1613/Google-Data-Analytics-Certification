@@ -1,0 +1,6 @@
+https://medium.com/analytics-and-data/r-vs-python-a-comprehensive-guide-for-data-professionals-321e8dead598
+
+https://www.dataquest.io/blog/python-vs-r/
+
+https://blog.rstudio.com/2019/12/17/r-vs-python-what-s-the-best-for-language-for-data-science/
+

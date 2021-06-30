@@ -1,0 +1,42 @@
+Hey, welcome back. By now, you've already learned
+the importance of fair, unbiased data in data analysis. In R, we can actually
+quantify bias by comparing the actual outcome of our data with the
+predicted outcome. There's a pretty complicated statistical explanation
+behind this. But with the bias function in R, we don't have to perform
+this calculation by hand. Basically, the bias function
+finds the average amount that the actual outcome is greater than the
+predicted outcome. It's included in the
+SimDesign package. It's helpful to install that
+and practice on your own. If the model is unbiased, the outcome should be
+pretty close to zero. A high result means that
+your data might be biased. A good thing to know
+before you analyze it. Let's say we're working with
+a local weather channel to determine if their whether
+predictions are biased. First, we'll need to install and load a package called SimDesign. We'll use the bias
+function to compare forecasted temperatures
+with actual temperatures. For this example, we'll just take a small sample of our weather
+data and input them here. We'll label this the actual temp. Then we'll put in the prediction and then the bias function. When we run this, we can find out
+that the result is 0.71. That's pretty high. The predictions seem biased
+towards lower temperatures, which means they aren't as
+accurate as they could be. Now that the local
+weather channel knows, they can find the
+problem in their system that's causing the
+biased predictions. This doesn't mean
+their predictions will be perfect all the time, but they'll be more
+accurate overall. That's it for now. We've covered a lot here. We learned about how
+to create data frames. We got to try out some basic
+data-cleaning functions. We got a little preview
+of how data viz in R can help us better
+understand our data. Finally, we learned how
+to use the bias function. I've still got a lot more
+I want to tell you about R. And if the data visualizations we
+created in this module were exciting for you, I've got great news. Coming up, we'll learn all about data viz in R. But first, you've got a weekly
+challenge to tackle. I know you're going to do great. If you want to review
+any of the material that we've covered in these
+videos, feel free. This might be the first
+time you've encountered R, so it's a great opportunity
+to practice something new. Your code might throw up
+some errors at first. That's just part of writing code. It's okay to try things out
+and make some mistakes. Learning from our
+mistakes is how we grow. I'll see you afterwards for
+our next adventure in R.
