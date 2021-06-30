@@ -5,14 +5,15 @@ Successfully completed ###Professional Certification in Google Data Analytics###
 
 ######################################################################
 
-  * Foundations: Data, Data, Everywhere 
-  * Ask Questions to Make Data- Driven Decisions - ASK Phase 
-  * Prepare Data for Exploration - PREPARE Phase 
-  * Process Data from Dirty to Clean - PROCESS Phase 
-  * Analyze Data to Answer Questions - ANALYZE Phase
-  * Share Data through the Art of Visualization - SHARE Phase
-  * Data Analysis with R Programming Language - R Programming
-  * Capsstone Case Study - Case Study
+•	Foundations: Data, Data, Everywhere
+•	Ask Questions to Make Data- Driven Decisions - ASK Phase
+•	Prepare Data for Exploration - PREPARE Phase
+•	Process Data from Dirty to Clean - PROCESS Phase
+•	Analyse Data to Answer Questions - ANALYZE Phase
+•	Share Data through the Art of Visualization - SHARE Phase
+•	Data Analysis with R Programming Language - R Programming
+•	Capstone Case Study - Case Study
+
 
 ######################################################################
 
