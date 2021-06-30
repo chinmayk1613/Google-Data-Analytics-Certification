@@ -15,3 +15,7 @@ Successfully completed Professional Certification in Google Data Analsystis. Thi
   * Capsstone Case Study - Case Study
 
 ######################################################################
+
+
+
+![Alt text](/fig/image.JPG?raw=true "Google Data Analytics Professional Certificate")
